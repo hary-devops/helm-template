@@ -3,12 +3,12 @@ entries:
   helm-template:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-20T11:54:57.1063885+08:00"
+    created: "2024-03-20T11:57:55.2996415+08:00"
     description: A Helm chart for Bookandlink Kubernetes Deployment
-    digest: 1b056d3d435284c65bf42f8d28dc7eec64a63a76e7badb8170aaadf2c7ec06be
+    digest: 55357d117654913fce4738a435cf3fd6437d5a51c0a33ed2b3cac8fb4ab89e4f
     name: helm-template
     type: application
     urls:
     - https://hary-devops.github.io/helm-template/charts/helm-template-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-20T11:54:57.1058137+08:00"
+generated: "2024-03-20T11:57:55.2990975+08:00"
