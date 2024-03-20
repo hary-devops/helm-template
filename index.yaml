@@ -3,7 +3,7 @@ entries:
   helm-template:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-20T12:26:39.3013699+08:00"
+    created: "2024-03-20T12:35:08.5095949+08:00"
     description: A Helm chart for Kubernetes
     digest: 768d86f944e58672521776359cb2fd146d256fa4849a653609ac01c821a35b45
     name: helm-template
@@ -11,24 +11,4 @@ entries:
     urls:
     - https://hary-devops.github.io/helm-template/charts/helm-template-0.1.3.tgz
     version: 0.1.3
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-03-20T12:26:39.3004153+08:00"
-    description: A Helm chart for Kubernetes
-    digest: b0e324d7c6bf8c3ffefdc122a2b60d71e8990e7185eacfc6f2b027652f9a59b2
-    name: helm-template
-    type: application
-    urls:
-    - https://hary-devops.github.io/helm-template/charts/helm-template-0.1.2.tgz
-    version: 0.1.2
-  - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-03-20T12:26:39.2993116+08:00"
-    description: A Helm chart for Kubernetes
-    digest: afabd1073c9a6c5d4f9f3288e6ad023ca251d2c648c643ddd63f181a0f28f071
-    name: helm-template
-    type: application
-    urls:
-    - https://hary-devops.github.io/helm-template/charts/helm-template-0.1.0.tgz
-    version: 0.1.0
-generated: "2024-03-20T12:26:39.2993116+08:00"
+generated: "2024-03-20T12:35:08.5083664+08:00"
