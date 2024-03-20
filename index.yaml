@@ -2,13 +2,13 @@ apiVersion: v1
 entries:
   deploymenttemplate:
   - apiVersion: v2
-    appVersion: 1.16.0
-    created: "2024-03-20T15:34:00.6089545+08:00"
+    appVersion: 1.16.1
+    created: "2024-03-20T15:49:58.895742+08:00"
     description: A Helm chart for Kubernetes
-    digest: 0777d134e53809a7cae1530fde96aa55e23f8661e28bf407c8ef11023680b3fe
+    digest: 3a77b07dd39376fbae0295af8dfa94013cb1c035f881bf46bd1525ab5b294232
     name: deploymenttemplate
     type: application
     urls:
-    - https://hary-devops.github.io/helm-template/charts/deploymenttemplate-0.1.7.tgz
-    version: 0.1.7
-generated: "2024-03-20T15:34:00.6073634+08:00"
+    - https://hary-devops.github.io/helm-template/charts/deploymenttemplate-0.1.8.tgz
+    version: 0.1.8
+generated: "2024-03-20T15:49:58.895742+08:00"
