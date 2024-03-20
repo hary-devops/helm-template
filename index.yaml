@@ -3,12 +3,12 @@ entries:
   deploymenttemplate:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-20T15:28:40.0108955+08:00"
+    created: "2024-03-20T15:32:07.5299977+08:00"
     description: A Helm chart for Kubernetes
-    digest: eed2a78437c9cc83501f974c73ca8e0784603bb7418c490d461d6b9c9cbd4833
+    digest: f0d9515b4c5b15a10a5ae38480aa65202257173b3119b468444459f48e139b5c
     name: deploymenttemplate
     type: application
     urls:
     - https://hary-devops.github.io/helm-template/charts/deploymenttemplate-0.1.6.tgz
     version: 0.1.6
-generated: "2024-03-20T15:28:40.0107007+08:00"
+generated: "2024-03-20T15:32:07.5288518+08:00"
